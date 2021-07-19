@@ -6,7 +6,7 @@ Arch package security auditing ([GitHub](https://github.com/Vimru/taps), [AUR](h
 
 Aggregated cyber security news in your browser with fuzzy searching ([vimru.github.io/SecRssNews](https://vimru.github.io/SecRssNews))
 
-<sup>It might take a few seconds to load if the VPS boot up</sup>
+<sup>It might take a few seconds to load if the VPS has to boot up</sup>
 
 # ESNI support site checker
 
